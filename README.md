@@ -19,4 +19,4 @@ chmod +x scrncap.sh
 
 ./scrncap.sh
 
-Screenshots are stored in ~/Pictures/ at a rate of 2 per second by default.
+Screenshots are stored in ~/Pictures/ at a rate of one every 2 seconds by default.
