@@ -1,4 +1,3 @@
-
 # screenSHotter #
 
 A shell script that automatically takes screenshots and saves them to a folder.
@@ -21,6 +20,6 @@ chmod +x scrncap.sh
 
 - Screenshots are stored in ~/Pictures/ at a rate of one every 2 seconds
 
-- Captures the active window (can be changed)
+- Captures the active window (can be changed to the entire screen)
 
 - Read the manual for scrot and modify the script as needed
