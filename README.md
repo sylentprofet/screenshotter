@@ -21,6 +21,6 @@ chmod +x scrncap.sh
 
 - Screenshots are stored in ~/Pictures/ at a rate of one every 2 seconds
 
-- Captures only the active window
+- Captures the active window (can be changed)
 
 - Read the manual for scrot and modify the script as needed
