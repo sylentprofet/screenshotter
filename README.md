@@ -4,17 +4,17 @@ A shell script that automatically takes screenshots and saves them to a folder.
 
 Useful for writing how-to's with pictures of code or other visual examples.
 
-Requires package scrot, will automatically check and install if necessary.
+Requires package scrot, will check and install if necessary.
 
 # Usage #
 
 1- Make sure the script is executable.
 
-chmod +x scrncap.sh
+chmod +x screenshotter.sh
 
 2- Invoke the script in a terminal and start capturing!
 
-./scrncap.sh
+./screenshotter.sh
 
 # Default Options #
 
