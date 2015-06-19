@@ -16,6 +16,7 @@ fi
 echo
 echo
 echo "--- screenSHotter is active ---"
+echo
 echo "    --- ctrl-C to quit ---"
 while true; do scrot -u -d 2 '%Y-%m-%d-%H:%M:%S.jpg' -e 'mv $f ~/Pictures/'; done
 
