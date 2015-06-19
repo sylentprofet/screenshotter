@@ -22,4 +22,6 @@ chmod +x scrncap.sh
 
 - Captures the active window (can be changed to the entire screen)
 
-- Read the manual for scrot and modify the script as needed
+- Files are named via timestamp: %Y-%m-%d-%H:%M:%S.jpg
+
+- Read the manual for scrot and modify the script as needed!
